@@ -145,7 +145,7 @@ function car2_c() {
         uploadBackground();
 }
 }
-function car1_d() {
+function car2_d() {
     if (car2_x<=800){
         car2_x =car2_x+10;
         console.log("When right arrow is pressed,x=" +car2_x +"y=" + car2_y);
